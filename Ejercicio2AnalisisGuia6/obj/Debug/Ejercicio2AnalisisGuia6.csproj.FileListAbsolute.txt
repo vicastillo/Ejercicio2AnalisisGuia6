@@ -1,0 +1,7 @@
+C:\Users\vicen\Desktop\Ejercicio2AnalisisGuia6\Ejercicio2AnalisisGuia6\bin\Debug\Ejercicio2AnalisisGuia6.exe.config
+C:\Users\vicen\Desktop\Ejercicio2AnalisisGuia6\Ejercicio2AnalisisGuia6\bin\Debug\Ejercicio2AnalisisGuia6.exe
+C:\Users\vicen\Desktop\Ejercicio2AnalisisGuia6\Ejercicio2AnalisisGuia6\bin\Debug\Ejercicio2AnalisisGuia6.pdb
+C:\Users\vicen\Desktop\Ejercicio2AnalisisGuia6\Ejercicio2AnalisisGuia6\obj\Debug\Ejercicio2AnalisisGuia6.csprojAssemblyReference.cache
+C:\Users\vicen\Desktop\Ejercicio2AnalisisGuia6\Ejercicio2AnalisisGuia6\obj\Debug\Ejercicio2AnalisisGuia6.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\Ejercicio2AnalisisGuia6\Ejercicio2AnalisisGuia6\obj\Debug\Ejercicio2AnalisisGuia6.exe
+C:\Users\vicen\Desktop\Ejercicio2AnalisisGuia6\Ejercicio2AnalisisGuia6\obj\Debug\Ejercicio2AnalisisGuia6.pdb
